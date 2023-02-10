@@ -1,0 +1,14 @@
+.list-item {
+    border: 1px solid black;
+}
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+
+.truncate {
+    width: 200px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
